@@ -8,9 +8,9 @@ namespace AnimalData.classes
 {
     class sound
     {
-        static void Sound()
+        public static int sonido()
         {
-            return 0 ;
+            return 0;
         }
     }
 }

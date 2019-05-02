@@ -8,5 +8,13 @@ namespace AnimalData.classes
 {
     class cat
     {
+        public static string talk()
+        {
+            string a = "miau";
+            sound miau = new sound();
+            sound.sonido();
+            return a;
+        }
+
     }
 }

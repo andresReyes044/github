@@ -8,5 +8,6 @@ namespace AnimalData.classes
 {
     interface Interface1
     {
+        
     }
 }
